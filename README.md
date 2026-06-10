@@ -85,14 +85,16 @@ Displays the prediction errors across the test dataset.
 ```text
 Student-Result-Prediction-System/
 │
-├── Student_Result_Prediction_System.ipynb
+├── main.ipynb
 ├── student_data.csv
-├── requirements.txt
 ├── README.md
 └── images/
-    ├── study_hours_vs_marks.png
-    ├── actual_vs_predicted.png
-    └── error_distribution.png
+    ├── <img width="876" height="554" alt="Screenshot 2026-06-10 232624" src="https://github.com/user-attachments/assets/f55ebe31-ff89-41a6-9a8c-8b7a68f4e787" />
+
+    ├── <img width="886" height="539" alt="Screenshot 2026-06-10 232615" src="https://github.com/user-attachments/assets/ae496692-4dde-4ac6-8831-a504c9c64092" />
+
+    └── <img width="876" height="639" alt="Screenshot 2026-06-10 232601" src="https://github.com/user-attachments/assets/3d2066d5-2124-43c8-9a12-d822833d61ee" />
+
 ```
 
 ## ⚙️ Installation
