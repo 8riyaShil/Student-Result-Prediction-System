@@ -164,9 +164,7 @@ Through this project, I gained practical experience in:
 
 **Riya Shil**
 
-BCA Student (3rd Year, 6th Semester)
 
-DSMS College of Tourism and Management
 
 ### Connect with Me
 
