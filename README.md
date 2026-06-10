@@ -168,8 +168,8 @@ Through this project, I gained practical experience in:
 
 ### Connect with Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/8riyashil
+- LinkedIn: https://linkedin.com/in/riya-shil-778623272
 
 ---
 
